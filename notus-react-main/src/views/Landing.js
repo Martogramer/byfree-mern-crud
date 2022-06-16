@@ -24,7 +24,7 @@ export default function Landing() {
               className="w-full h-full absolute opacity-75 bg-black"
             ></span>
           </div>
-          <div className="container relative mx-auto">
+          {/* <div className="container relative mx-auto">
             <div className="items-center flex flex-wrap">
               <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                 <div className="pr-12">
@@ -39,7 +39,7 @@ export default function Landing() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div
             className="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden h-70-px"
             style={{ transform: "translateZ(0)" }}
@@ -61,7 +61,7 @@ export default function Landing() {
           </div>
         </div>
 
-        <section className="pb-20 bg-blueGray-200 -mt-24">
+        {/* <section className="pb-20 bg-blueGray-200 -mt-24">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
               <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
@@ -166,7 +166,7 @@ export default function Landing() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
 
         <div>
        {/*  <section className="relative py-20">
@@ -456,7 +456,7 @@ export default function Landing() {
               </div>
             </div>
 
-            <div className="flex flex-wrap mt-12 justify-center">
+            {/* <div className="flex flex-wrap mt-12 justify-center">
               <div className="w-full lg:w-3/12 px-4 text-center">
                 <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
                   <i className="fas fa-medal text-xl"></i>
@@ -493,7 +493,7 @@ export default function Landing() {
                   the bulk of the card's content.
                 </p>
               </div>
-            </div>
+            </div> */}
 
           </div>
         </section>
