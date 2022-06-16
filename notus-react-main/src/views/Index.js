@@ -48,11 +48,11 @@ export default function Index() {
           </div>
         </div>
 
-        <img
+        {/* <img
           className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860px"
           src={require("assets/img/pattern_react.png").default}
           alt="..."
-        />
+        /> */}
       </section>
 
       {/* <section className="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">

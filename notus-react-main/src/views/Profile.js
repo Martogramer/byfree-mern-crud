@@ -44,7 +44,7 @@ export default function Profile() {
         <section className="relative py-16 bg-blueGray-200">
           <div className="container mx-auto px-4">
             <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64">
-              <div className="px-6">
+              {/* <div className="px-6">
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-3/12 px-4 lg:order-2 flex justify-center">
                     <div className="relative">
@@ -94,6 +94,7 @@ export default function Profile() {
                     </div>
                   </div>
                 </div>
+                
                 <div className="text-center mt-12">
                   <h3 className="text-4xl font-semibold leading-normal mb-2 text-blueGray-700 mb-2">
                     Jenna Stones
@@ -131,7 +132,7 @@ export default function Profile() {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>  */}
             </div>
           </div>
         </section>
